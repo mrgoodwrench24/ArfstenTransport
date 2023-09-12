@@ -1,5 +1,6 @@
 body {
   background-color: #f3f3f3;
+  font-size: 24px;
 }
 
 main {
@@ -20,6 +21,11 @@ h1 {
 }
 header{
   margin-bottom: 25px;
+}
+
+.mission-statement{
+  margin-top: 0px;
+  padding-top: 0px;
 }
 
 .logo {
