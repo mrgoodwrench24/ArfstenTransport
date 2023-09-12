@@ -7,8 +7,8 @@ main {
   text-align: center;
   background-color: #6883bc;
   color: white;
-  margin-left: 12%;
-  margin-right: 12%;
+  margin-left: 8%;
+  margin-right: 8%;
   padding: 20px; /* Add padding to create space within the main section */
   box-sizing: border-box; /* Include padding in the element's total width */
   border-radius: 10px;
