@@ -37,6 +37,11 @@ header {
   padding-top: 0px;
 }
 
+.services-section{
+  padding-top: 25px;
+  text-align: left;
+}
+
 .logo {
   object-fit: scale-down;
   margin: auto auto;
@@ -62,4 +67,30 @@ footer {
   /*color: black;*/
   font-size: 32px;
   font-family: "Cedarville Cursive", cursive;
+}
+
+.topnav {
+  text-align: center;
+  overflow: hidden;
+  background-color: #f3f3f3;
+}
+
+.topnav a {
+  display: inline-block; /* Change to display as blocks to center horizontally */
+  color: #9a0779;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #9a0779;
+  color: #f3f3f3;
 }
