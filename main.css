@@ -1,0 +1,42 @@
+body {
+  background-color: #f3f3f3;
+}
+
+main {
+  text-align: center;
+  background-color: #6883bc;
+  color: white;
+}
+
+h1 {
+    font-size: 62px;
+    margin: 0 auto; /* Center horizontally */
+    width: max-content; /* Set to the width of the content */
+}
+
+.logo {
+  object-fit: scale-down;
+  margin: auto auto;
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center;
+  width: 100%;
+  max-width: 750px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.flag {
+  object-fit: scale-down;
+  justify-content: left;
+  width: 20%;
+  height: 25%;
+}
+
+footer {
+  text-align: center;
+  color: #8e4f6c;
+  /*color: black;*/
+  font-size: 48px;
+  font-family: "Cedarville Cursive", cursive;
+}
