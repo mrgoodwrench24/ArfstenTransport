@@ -30,6 +30,7 @@ main img {
 
 .contact-section {
   display: flex;
+  margin-left: 100px;
 }
 
 .contact-form,
@@ -71,6 +72,7 @@ header {
 .services-section {
   padding-top: 25px;
   text-align: left;
+  margin-left: 100px;
 }
 
 .contact-section {
@@ -137,4 +139,8 @@ footer {
 .topnav a.active {
   background-color: #9a0779;
   color: #f3f3f3;
+}
+
+#truckmtn{
+  padding-right: 50px;
 }
